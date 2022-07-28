@@ -20,11 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91375048-eea7-44c8-a36d-bf89f6c5b357" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/PostService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/PostService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/PostItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PostItem.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Postlist.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Postlist.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Styles/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Styles/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useFetching.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/useFetching.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/pages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/pages.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +57,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\React\ReactLearning\src\Components\UI" />
       <recent name="D:\React\ReactLearning\src" />
     </key>
   </component>
@@ -66,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658908629296</updated>
       <workItem from="1658908637207" duration="13914000" />
+      <workItem from="1658990411684" duration="19599000" />
     </task>
     <servers />
   </component>
@@ -82,6 +89,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="859" y="451" key="#ESLint" timestamp="1658909942292">
